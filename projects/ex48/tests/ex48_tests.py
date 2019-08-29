@@ -1,4 +1,4 @@
-from nose.tools import *
+from nose.tools import assert_equal
 from ex48 import lexicon
 
 def test_directions():
