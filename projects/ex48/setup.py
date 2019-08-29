@@ -11,7 +11,7 @@ config = {
     'author_email' : 'divanshu.dodeja@gmail.com',
     'version' : '0.1',
     'install_requires' : ['nose'],
-    'packages' : ['NAME'],
+    'packages' : ['ex48'],
     'scripts' : [],
     'name' : 'projectname'
 }
