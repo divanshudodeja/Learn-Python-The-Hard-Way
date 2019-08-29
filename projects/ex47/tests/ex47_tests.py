@@ -1,4 +1,4 @@
-from nose.tools import *
+from nose.tools import assert_equal
 from ex47.game import Room
 
 def test_room():
